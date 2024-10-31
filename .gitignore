@@ -7,3 +7,4 @@ termux-packages/output
 #!output.7z
 #!termux-packages/output
 #termux-packages/output.zip
+!bootstrap-aarch64.zip
