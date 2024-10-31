@@ -4,6 +4,6 @@ termux-packages/*
 termux-packages/output
 
 # But don't ignore output.zip
-!output.7z
+#!output.7z
 #!termux-packages/output
 #termux-packages/output.zip
