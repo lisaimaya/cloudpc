@@ -3,3 +3,7 @@
 termux-packages/output.zip filter=lfs diff=lfs merge=lfs -text
 
 * text=auto eol=lf
+*.deb binary
+
+
+termux-packages/output/*.deb filter=lfs diff=lfs merge>

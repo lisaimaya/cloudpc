@@ -1,9 +1,9 @@
 # Ignore everything in the termux-packages folder
 termux-packages/*
 
-termux-packages/output
+!termux-packages/output
 
-*.deb
+#*.deb
 
 
 # But don't ignore output.zip
