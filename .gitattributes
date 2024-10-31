@@ -1,3 +1,5 @@
 # Treat .zip files as binary to prevent line ending conversions
 *.zip binary
 termux-packages/output.zip filter=lfs diff=lfs merge=lfs -text
+
+* text=auto eol=lf
