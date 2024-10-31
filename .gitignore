@@ -1,0 +1,5 @@
+# Ignore everything in the termux-packages folder
+termux-packages/*
+
+# But don't ignore output.zip
+!termux-packages/output.zip
