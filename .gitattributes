@@ -1,2 +1,4 @@
 # Treat .zip files as binary to prevent line ending conversions
 *.zip binary
+
+termux-packages/output.zip binary
