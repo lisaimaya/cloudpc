@@ -3,6 +3,9 @@ termux-packages/*
 
 termux-packages/output
 
+*.deb
+
+
 # But don't ignore output.zip
 #!output.7z
 #!termux-packages/output
