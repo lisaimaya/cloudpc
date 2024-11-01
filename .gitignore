@@ -11,3 +11,5 @@ termux-packages/*
 #!termux-packages/output
 #termux-packages/output.zip
 !bootstrap-aarch64.zip
+termix-repo
+
